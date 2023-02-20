@@ -1,0 +1,21 @@
+{
+    "name": "SysProd/yii2-jstree-input",
+    "description": "JsTree for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "jstree"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SysProd Igor",
+            "email": "sys.prod@yahoo.com"
+        }
+    ],
+    "require": {
+        "vakata/jstree" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SysProd\\JsTreeInput\\": ""
+        }
+    }
+}
